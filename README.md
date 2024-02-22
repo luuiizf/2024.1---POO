@@ -1,2 +1,1 @@
-# 2024.1---POO
-Repository made for POO discipline.
+# Repositório feito para a disciplina de POO do curso de TADS do semestre 2024.1
