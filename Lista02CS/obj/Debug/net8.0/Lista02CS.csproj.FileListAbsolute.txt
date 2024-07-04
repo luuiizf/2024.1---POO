@@ -1,0 +1,15 @@
+/workspaces/2024.1---POO/Lista02CS/obj/Debug/net8.0/Lista02CS.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/2024.1---POO/Lista02CS/obj/Debug/net8.0/Lista02CS.AssemblyInfoInputs.cache
+/workspaces/2024.1---POO/Lista02CS/obj/Debug/net8.0/Lista02CS.AssemblyInfo.cs
+/workspaces/2024.1---POO/Lista02CS/obj/Debug/net8.0/Lista02CS.csproj.CoreCompileInputs.cache
+/workspaces/2024.1---POO/Lista02CS/obj/Debug/net8.0/Lista02CS.sourcelink.json
+/workspaces/2024.1---POO/Lista02CS/bin/Debug/net8.0/Lista02CS
+/workspaces/2024.1---POO/Lista02CS/bin/Debug/net8.0/Lista02CS.deps.json
+/workspaces/2024.1---POO/Lista02CS/bin/Debug/net8.0/Lista02CS.runtimeconfig.json
+/workspaces/2024.1---POO/Lista02CS/bin/Debug/net8.0/Lista02CS.dll
+/workspaces/2024.1---POO/Lista02CS/bin/Debug/net8.0/Lista02CS.pdb
+/workspaces/2024.1---POO/Lista02CS/obj/Debug/net8.0/Lista02CS.dll
+/workspaces/2024.1---POO/Lista02CS/obj/Debug/net8.0/refint/Lista02CS.dll
+/workspaces/2024.1---POO/Lista02CS/obj/Debug/net8.0/Lista02CS.pdb
+/workspaces/2024.1---POO/Lista02CS/obj/Debug/net8.0/Lista02CS.genruntimeconfig.cache
+/workspaces/2024.1---POO/Lista02CS/obj/Debug/net8.0/ref/Lista02CS.dll
