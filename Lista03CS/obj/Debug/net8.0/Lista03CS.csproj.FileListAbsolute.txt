@@ -1,0 +1,15 @@
+/workspaces/2024.1---POO/Lista03CS/obj/Debug/net8.0/Lista03CS.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/2024.1---POO/Lista03CS/obj/Debug/net8.0/Lista03CS.AssemblyInfoInputs.cache
+/workspaces/2024.1---POO/Lista03CS/obj/Debug/net8.0/Lista03CS.AssemblyInfo.cs
+/workspaces/2024.1---POO/Lista03CS/obj/Debug/net8.0/Lista03CS.csproj.CoreCompileInputs.cache
+/workspaces/2024.1---POO/Lista03CS/obj/Debug/net8.0/Lista03CS.sourcelink.json
+/workspaces/2024.1---POO/Lista03CS/bin/Debug/net8.0/Lista03CS
+/workspaces/2024.1---POO/Lista03CS/bin/Debug/net8.0/Lista03CS.deps.json
+/workspaces/2024.1---POO/Lista03CS/bin/Debug/net8.0/Lista03CS.runtimeconfig.json
+/workspaces/2024.1---POO/Lista03CS/bin/Debug/net8.0/Lista03CS.dll
+/workspaces/2024.1---POO/Lista03CS/bin/Debug/net8.0/Lista03CS.pdb
+/workspaces/2024.1---POO/Lista03CS/obj/Debug/net8.0/Lista03CS.dll
+/workspaces/2024.1---POO/Lista03CS/obj/Debug/net8.0/refint/Lista03CS.dll
+/workspaces/2024.1---POO/Lista03CS/obj/Debug/net8.0/Lista03CS.pdb
+/workspaces/2024.1---POO/Lista03CS/obj/Debug/net8.0/Lista03CS.genruntimeconfig.cache
+/workspaces/2024.1---POO/Lista03CS/obj/Debug/net8.0/ref/Lista03CS.dll
