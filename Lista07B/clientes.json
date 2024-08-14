@@ -1,0 +1,20 @@
+[
+    {
+        "_id": 1,
+        "_nome": "Danilo Subida",
+        "_email": "danilinhomilgrau@gmail.com",
+        "_fone": "(11) 91234-5678"
+    },
+    {
+        "_id": 2,
+        "_nome": "Mateus Vitor",
+        "_email": "mateusvtr@gmail.com",
+        "_fone": "(21) 92345-6789"
+    },
+    {
+        "_id": 3,
+        "_nome": "Luiz Gonzaga",
+        "_email": "treinafofo@gmail.com",
+        "_fone": "(31) 93456-7890"
+    }
+]

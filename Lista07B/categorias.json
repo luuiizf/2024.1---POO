@@ -1,0 +1,14 @@
+[
+    {
+        "_id": 1,
+        "_descricao": "Eletrônicos"
+    },
+    {
+        "_id": 2,
+        "_descricao": "Roupas"
+    },
+    {
+        "_id": 3,
+        "_descricao": "Alimentos"
+    }
+]

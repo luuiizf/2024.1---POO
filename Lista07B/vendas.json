@@ -1,0 +1,23 @@
+[
+    {
+        "_id": 1,
+        "_data": "2024-08-08T10:30:00",
+        "_carrinho": true,
+        "_total": 150.75,
+        "_idCliente": 1
+    },
+    {
+        "_id": 2,
+        "_data": "2024-08-09T14:45:00",
+        "_carrinho": false,
+        "_total": 299.99,
+        "_idCliente": 2
+    },
+    {
+        "_id": 3,
+        "_data": "2024-08-10T09:15:00",
+        "_carrinho": true,
+        "_total": 89.50,
+        "_idCliente": 3
+    }
+]
