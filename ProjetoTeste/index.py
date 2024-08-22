@@ -1,6 +1,6 @@
 from templates.manterclienteUI import ManterClienteUI
-#from templates.mantercategoriaUI import ManterCategoriaUI
-#from templates.manterprodutoUI import ManterProdutoUI
+from templates.mantercategoriaUI import ManterCategoriaUI
+from templates.manterprodutoUI import ManterProdutoUI
 #from templates.reajustarprecoUI import ReajustarPrecoUI
 #from templates.loginUI import LoginUI
 #from templates.abrircontaUI import AbrirContaUI
@@ -18,8 +18,8 @@ class IndexUI:
   def menu_admin():
     op = st.sidebar.selectbox("Menu", ["Manter Clientes", "Manter Categorias", "Manter Produtos", "Reajustar Preços"])
     if op == "Manter Clientes": ManterClienteUI.main()
-    #if op == "Manter Categorias": ManterCategoriasUI.main()
-    #if op == "Manter Produtos": ManterProdutosUI.main()
+    if op == "Manter Categorias": ManterCategoriaUI.main()
+    if op == "Manter Produtos": ManterProdutoUI.main()
     #if op == "Reajustar Preços": ReajustarPrecosUI.main()
 
 #  def menu_cliente():
